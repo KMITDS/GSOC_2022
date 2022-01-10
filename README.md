@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=LmVolos4OMA&list=PL-4TDOOfhNDQ3xc1mO1VtpaqVu4rjN
 
 Advice for People Applying for GSoC 
 https://developers.google.com/open-source/gsoc/help/student-advice
+
+https://medium.com/@rahul2240/how-to-prepare-for-gsoc-2020-6e20d0d46398
